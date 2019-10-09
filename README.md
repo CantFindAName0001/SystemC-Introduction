@@ -6,7 +6,7 @@
 1. Download the SystemC source code (systemc-2.3.1.tgz) from http://www.accellera.org/.
 
 2. Untar the downloaded file to the directory where SystemC is to be installed.
-e.g. D:\systemc-2.3.1
+e.g. E:\systemc-2.3.1
 
 3. Make a directory msvc14 and create a "Static library" Visual Studio 2015 project, systemc, under it.
 
